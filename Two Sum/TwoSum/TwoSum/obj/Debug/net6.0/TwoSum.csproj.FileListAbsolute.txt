@@ -1,0 +1,15 @@
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.exe
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.deps.json
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.dll
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.pdb
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.dll
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\refint\TwoSum.dll
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.pdb
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+E:\Evert\Programming\Two Sum\TwoSum\TwoSum\obj\Debug\net6.0\ref\TwoSum.dll

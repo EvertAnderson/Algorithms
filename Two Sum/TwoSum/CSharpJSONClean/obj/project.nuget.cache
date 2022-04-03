@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvM7jIbsvnaBhUhEEc6HfE+E30qoyZ/IOTQZ9M78LZx2rPixYnfC8530AacbYR/t0L+4/gtcl32VzuzdEwVe0g==",
+  "success": true,
+  "projectFilePath": "E:\\Evert\\Programming\\Two Sum\\TwoSum\\CSharpJSONClean\\CSharpJSONClean.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evert\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

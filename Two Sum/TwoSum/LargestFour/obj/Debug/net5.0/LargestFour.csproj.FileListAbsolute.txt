@@ -1,0 +1,16 @@
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.exe
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.deps.json
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.runtimeconfig.json
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.runtimeconfig.dev.json
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.dll
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\ref\LargestFour.dll
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\bin\Debug\net5.0\LargestFour.pdb
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.csproj.AssemblyReference.cache
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.AssemblyInfoInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.AssemblyInfo.cs
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.csproj.CoreCompileInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.dll
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\ref\LargestFour.dll
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.pdb
+E:\Evert\Programming\Two Sum\TwoSum\LargestFour\obj\Debug\net5.0\LargestFour.genruntimeconfig.cache

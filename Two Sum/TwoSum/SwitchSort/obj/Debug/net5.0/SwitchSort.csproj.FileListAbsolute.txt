@@ -1,0 +1,16 @@
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.exe
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.deps.json
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.runtimeconfig.json
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.runtimeconfig.dev.json
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.dll
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\bin\Debug\net5.0\SwitchSort.pdb
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.csproj.AssemblyReference.cache
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.AssemblyInfoInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.AssemblyInfo.cs
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.csproj.CoreCompileInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.dll
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\ref\SwitchSort.dll
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.pdb
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\SwitchSort.genruntimeconfig.cache
+E:\Evert\Programming\Two Sum\TwoSum\SwitchSort\obj\Debug\net5.0\refint\SwitchSort.dll

@@ -1,0 +1,15 @@
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.exe
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.deps.json
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.runtimeconfig.json
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.runtimeconfig.dev.json
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.dll
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\ref\StringReduction.dll
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\bin\Debug\net5.0\StringReduction.pdb
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.AssemblyInfoInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.AssemblyInfo.cs
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.csproj.CoreCompileInputs.cache
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.dll
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\ref\StringReduction.dll
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.pdb
+E:\Evert\Programming\Two Sum\TwoSum\StringReduction\obj\Debug\net5.0\StringReduction.genruntimeconfig.cache
